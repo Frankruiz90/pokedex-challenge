@@ -120,7 +120,7 @@ body {
 .main-content__data-item {
   flex: 1 1 100%;
   display: flex;
-  padding: 0 50px;
+  padding: 0 40px;
 }
 
 .item {
@@ -197,8 +197,8 @@ p {
 }
 
 .o-footer__button {
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
   margin: 5px;
   display: flex;
   justify-content: center;
